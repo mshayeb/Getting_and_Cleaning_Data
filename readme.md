@@ -25,8 +25,9 @@ tidy2 <- read.table("tidy_dataset2.txt", sep=";", dec=".", header=TRUE)
 have fun!
 
 
-[analysis]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/run_analysis.R
-[zip]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/getdata_projectfiles_UCI%20HAR%20Dataset.zip
-[tidy1]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/tidy_dataset1.txt
-[tidy2]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/tidy_dataset2.txt
-[code]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/CodeBook.md
+[analysis]: https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/run_analysis.R
+[zip]:  https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/getdata_projectfiles_UCI%20HAR%20Dataset.zip
+[tidy1]:  https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/tidy_dataset1.txt
+[tidy2]: https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/tidy_dataset2.txt
+[code]: https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/codebook.md
+

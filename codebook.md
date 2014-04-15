@@ -112,6 +112,6 @@ The variables are as follows ([tidy_dataset2.txt][tidy2] has an `_mean` appended
 
 
 
-[analysis]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/run_analysis.R
-[tidy1]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/tidy_dataset1.txt
-[tidy2]: https://github.com/Schlusie/GettingAndCleaningData/blob/master/tidy_dataset2.txt
+[analysis]: https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/run_analysis.R
+[tidy1]:  https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/tidy_dataset1.txt
+[tidy2]:  https://github.com/mshayeb/Getting_and_Cleaning_Data/blob/master/tidy_dataset2.txt
